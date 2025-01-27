@@ -1,7 +1,6 @@
-# myapp
+# meu primeiro Aplicativo..
 
-A new Flutter project.
-
+um jovem em busca de conhecimento....
 ## Getting Started
 
 This project is a starting point for a Flutter application.
